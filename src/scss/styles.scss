@@ -23,4 +23,19 @@
 // Import partials:
 
 // Custom styles:
+header {
+    background: #ffffff url("../img/pirate-ship.jpg") no-repeat center;
+    background-size: cover;
+  }
 
+  h1 {
+    font-family: "Pirata One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+nav{
+  a:hover{
+    text-decoration: underline;
+  }
+}
