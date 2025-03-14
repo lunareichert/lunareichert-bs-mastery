@@ -28,14 +28,22 @@ header {
     background-size: cover;
   }
 
-  h1 {
-    font-family: "Pirata One", system-ui;
-    font-weight: 400;
-    font-style: normal;
-  }
+h1 {
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
-nav{
-  a:hover{
+nav {
+  a:hover {
     text-decoration: underline;
   }
+}
+
+.byline {
+  font-weight: bold;
+}
+
+.attribute {
+  font-style: oblique;
 }
